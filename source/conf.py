@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'HPC Assignment 2'
-copyright = '2025, Rose, Chris, Carlotta, Phoebe'
-author = 'Rose, Chris, Carlotta, Phoebe'
+project = 'HPC Project 2'
+copyright = '2025, phoebe, rose, carlotta, chris'
+author = 'phoebe, rose, carlotta, chris'
 release = '0.1'
 
 # -- General configuration ---------------------------------------------------
@@ -19,7 +19,7 @@ extensions = []
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'english'
+
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
