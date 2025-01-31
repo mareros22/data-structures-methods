@@ -1,6 +1,0 @@
-Usage
-=====
-
-All of the information for the report is included in the report.ipynb
-
-You need to have Jupyter installed to view the report.

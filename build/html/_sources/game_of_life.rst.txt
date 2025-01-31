@@ -17,4 +17,14 @@ Rules:
 
 The game is played on a grid of cells, where each cell can be in one of two states: alive or dead. The state of the grid evolves in discrete time steps, with the state of each cell at the next time step being determined by the current states of its eight neighbours.
 
- 
+Requirements needed: 
+
+- numpy
+
+- matplotlib
+
+- argparse
+
+- pygame
+
+To run the code: `python game_of_life.py` to see the animation of the game.
